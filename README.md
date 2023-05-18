@@ -1,4 +1,4 @@
-# Analysis Project
+# Analytics Project Portfolio
 
 ## 1. Room Booking Business Analysis-
 
