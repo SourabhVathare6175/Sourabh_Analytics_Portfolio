@@ -15,7 +15,7 @@
 #### Data Visualization    -  To create interactive  Power Bi Dashboards.
 #### Knowledge Transfer    -  Whatever insights by analyzing the dashboard in front of business team.
 
-### Snapshot of look & fill of Power Bi Dashboard for-Room Booking Business Analysis
+### Snapshot of look & final of Power Bi Dashboard for-Room Booking Business Analysis
 
 ![Room_Business_Analysis](https://github.com/SourabhVathare6175/Sourabh_Analytics_Portfolio/assets/129382113/dc0ce4cb-39bd-4065-8737-48134aa3a2bb)
 
