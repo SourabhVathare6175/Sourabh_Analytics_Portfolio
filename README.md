@@ -7,7 +7,7 @@
 -This dashboards are helpful to management team how business patterns are varying in past so they can predict upcoming business opportunity.
 -They want some key insights to improve revenue generated and also  what was the factors affecting on revenue so business team make plan accordingly to improve it. 
 
-### Requirement gathering- Prepare document for whatever requirement, key indexes needed to show in dashboard with the help of business team.
+### Requirement gathering- #### Prepare document for whatever requirement, key indexes needed to show in dashboard with the help of business team.
 #### Analytics Steps-
 #### Data Extraction       -  .CSV files from business team.
 #### Data Cleaning         -  With the help of Power Query Editor .
